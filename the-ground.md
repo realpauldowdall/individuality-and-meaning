@@ -14,7 +14,7 @@ the company of friends,
 
 and the comfort we give and receive,
 
-we die.
+we die...
 
 
 notice,
