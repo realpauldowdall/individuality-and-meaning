@@ -1,6 +1,5 @@
-# Prologue I
+# Prologue I: Proto-Language
 
-### Proto-Language
 
 Early Homo sapiens 300–160 ka.
 
@@ -26,9 +25,12 @@ Out of these pressures of unstable climate, shifting food sources and the need f
 
 But the break had not yet happened. These signs were still tied to the breath of the speaker and the dust of the moment. They lived only in the moving present. The mind was ready, but the world was still entirely unwritten.
 
-Prologue II. The Unwritten World. 
-Ségognole 3 rock shelter in northern France.
-Late Upper Palaeolithic, c. 15000-13,000 BP
+
+---
+
+# Prologue II: The Unwritten World
+
+*Ségognole 3 rock shelter in northern France. Late Upper Palaeolithic, c. 15,000–13,000 BP*
 
 The wind moved over the steppe, bending the dry grass in long waves. A small group walked in single file, their steps falling into a rhythm that matched their breathing. There was no urgency in their movement, only the steady pace of a patrol. The eldest, a woman whose skin was weathered like old leather, led them toward a low rock shelter beneath a pale ledge of stone, cool in shadow and cut through with the tracks of water.
 
@@ -42,14 +44,16 @@ In this world, words were heavy things. They cost breath. They cost time. A spok
 
 The law was held in the shared minds of the people present. If a dispute arose about a right, the group simply sang the relevant verse. If the verse was forgotten, the claim vanished. The truth was consensus, verified by living witnesses.
 
-For thousands upon thousands of generations, this was the only contract. The mind was the container. The land was the reference. The voice was the thread that bound them. It was a system of immediate feedback. If the song said "water" and the riverbed was dry, the song was wrong and had to be changed instantly. There was no lag between the symbol and the reality. The word was still tied to the breath, the ear, and the ground underfoot.
+For thousands upon thousands of generations, this was the only contract. The mind was the container. The land was the reference. The voice was the thread that bound them. It was a system of immediate feedback. If the song said \"water\" and the riverbed was dry, the song was wrong and had to be changed instantly. There was no lag between the symbol and the reality. The word was still tied to the breath, the ear, and the ground underfoot.
 
 Among some San peoples of southern Africa, oral transmission, ritual, and landscape knowledge remained central into recent times. Orality without the written word and a rich life of symbolism and ritual.
 
-Prologue III
-The Weight of the Surplus
-Fertile Crescent
-Natufian to Pre-Pottery Neolithic, c. 12,000–9,000 BP.
+
+–-
+
+# Prologue III: The Weight of the Surplus
+
+*Fertile Crescent — Natufian to Pre-Pottery Neolithic, c. 12,000–9,000 BP*
 
 A generation earlier, the band had crossed the river at the bend where the current slowed over smooth stones. The knowledge of that crossing was a store of value. This value lived in the mind of the elder who walked at the front, and it lived in the landscape itself. If the river changed course, the value changed instantly. The crossing was valuable only as long as it was true. The storage medium was the land, the body, and the collective memory.
 
@@ -57,8 +61,8 @@ But the climate shifted, and the wild grain grew thick on the hills. The harvest
 
 The river crossing was a permanent feature of the landscape; it could be trusted to stay. The pit was different. It was a hole in the ground, indistinguishable from a hundred other holes unless you stood directly over it. And inside, the contents shifted. Grain was taken. Grain spoiled. Grain was stolen.
 
-The elders found they could not "sing" the inventory as they sang the river crossings. The crossing was a single, stable fact. The pit was a changing quantity. A crossing either existed or it did not. A pit could be half-full, or empty, or fouled by mice. The oral mind, trained to hold stories and routes, struggled to hold the static numbers of a growing surplus.
+The elders found they could not \"sing\" the inventory as they sang the river crossings. The crossing was a single, stable fact. The pit was a changing quantity. A crossing either existed or it did not. A pit could be half-full, or empty, or fouled by mice. The oral mind, trained to hold stories and routes, struggled to hold the static numbers of a growing surplus.
 
-The band’s survival was now buried in the earth, invisible to the eye. The store had left the landscape and entered the container. But the mind could not follow it there. The memory of the elder was vast, but it was not infinite. It could hold the map of a continent, but it could not hold the ledger of a granary.
+The band's survival was now buried in the earth, invisible to the eye. The store had left the landscape and entered the container. But the mind could not follow it there. The memory of the elder was vast, but it was not infinite. It could hold the map of a continent, but it could not hold the ledger of a granary.
 
 A man stood by a pit, trying to remember exactly how many baskets his neighbor had carried away in the dark. He looked at the clay sealing the lid. He picked up a stone. He held it for a long moment. Then, slowly, he drew a mark. That mark has travelled a long way.
