@@ -6,9 +6,9 @@
 
 ## What this book is about
 
-Human beings have always used symbols to organise the world: language, ritual, law, money, scripture, identity. These systems began as tools for survival. Over time, many of them outlived their usefulness and became the world they were meant to describe. This book traces how that happened — and how it continues to happen inside the individual mind.
+Human beings have always used symbols to organise the world: language, ritual, law, money, scripture, identity. These systems began as tools for survival. Over time, many of them outlived their usefulness and became the world they were meant to describe. This book traces how that happened and how it continues to happen inside the individual mind.
 
-The argument moves in four stages. It begins with the origins of symbolic systems in the evolutionary pressures that shaped early human life. It then follows the progressive capture of societies by those systems, from the forest ledgers of seventeenth-century Prussia to the fall of Rome and the spread of religious literacy. It then turns inward, tracing how symbolic capture colonises the individual — the concept of the soul, the internal narrator, the neurochemistry of conformity. It ends not with a solution but with a direction: back to the ground, to what can be directly observed, before the category is placed between the person and the thing.
+The argument moves in four stages. It begins with the origins of symbolic systems in the evolutionary pressures that shaped early human life. It then follows the progressive capture of societies by those systems, from the forest ledgers of seventeenth-century Prussia to the fall of Rome and the spread of religious literacy. It then turns inward, tracing how symbolic capture colonises the individual. The concept of the soul, the internal narrator, the neurochemistry of conformity are all covered. It ends with a direction: back to the ground, to what can be directly observed, before the category is placed between the person and the thing.
 
 This is the second book by the author of *Reality and its Representation*.
 
