@@ -20,15 +20,15 @@ This is the second book by the author of *Reality and its Representation*.
 |------|---------|
 | [The Ground](the-ground.md) | The book's premise in miniature |
 | [Prologues I, II & III](prologues.md) | Proto-Language · The Unwritten World · The Weight of the Surplus |
-| [Chapter I — Rituals, Rule and Sacrifice](chapter-i-rituals-rule-and-sacrifice.md) | The first symbolic stores |
-| [Societies](appendix-societies-schema.md) | How symbolic systems emerged and took hold |
+| [Chapter I — Rituals, Rule and Sacrifice](chapter-i-rituals-rule-and-sacrifice.md) | From food caches and clay tokens to written ledgers and recorded sacrifice |
+| [Appendix — Societies](appendix-societies-schema.md) | The argument in outline: how symbolic systems emerged and took hold |
 | [Recommended Reading](recommended-reading.md) | Books worth spending time with — not sources, but good company |
 
 ---
 
 ## Status
 
-This is a working draft. All chapters are present but most require further editing. The author expects the manuscript to be complete in approximately 2027.
+This is a working draft, published as it is written. So far the opening poem, three prologues, Chapter I and an appendix outlining the argument are available. Later chapters will be added as they are completed. The author expects the manuscript to be complete in approximately 2027.
 
 Errors, observations, and substantive responses are welcome via [GitHub Issues](../../issues).
 
