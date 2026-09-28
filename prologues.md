@@ -21,7 +21,7 @@ As brains expanded, childhood lengthened. This exposed a danger but also opened 
 
 With greater memory came a clearer sense of time. People watched others age and die and understood that the same end awaited them. The awareness of mortality could overwhelm the ability to act. Groups that shared rituals around death and loss gained a small advantage. Burials, offerings, and stories about a continuing presence helped contain fear long enough for the living to keep working, raising children, and moving on. Beliefs about spirits and ancestors were ways of keeping bodies fed and bands intact.
 
-Out of these pressures of unstable climate, shifting food sources and the need for tight coordination, extended childhood and death awareness, symbolic thought deepened. Sounds, and gestures were no longer only tied to immediate needs. They could stand for people who were absent, for seasons yet to come, for obligations and debts. The capacity to hold a symbol in the mind was now awake.
+Out of these pressures of unstable climate, shifting food sources and the need for tight coordination, extended childhood and death awareness, symbolic thought deepened. Sounds and gestures were no longer only tied to immediate needs. They could stand for people who were absent, for seasons yet to come, for obligations and debts. The capacity to hold a symbol in the mind was now awake.
 
 But the break had not yet happened. These signs were still tied to the breath of the speaker and the dust of the moment. They lived only in the moving present. The mind was ready, but the world was still entirely unwritten.
 
@@ -49,7 +49,7 @@ For thousands upon thousands of generations, this was the only contract. The min
 Among some San peoples of southern Africa, oral transmission, ritual, and landscape knowledge remained central into recent times. Orality without the written word and a rich life of symbolism and ritual.
 
 
-–-
+---
 
 # Prologue III: The Weight of the Surplus
 
@@ -65,4 +65,4 @@ The elders found they could not \"sing\" the inventory as they sang the river cr
 
 The band's survival was now buried in the earth, invisible to the eye. The store had left the landscape and entered the container. But the mind could not follow it there. The memory of the elder was vast, but it was not infinite. It could hold the map of a continent, but it could not hold the ledger of a granary.
 
-A man stood by a pit, trying to remember exactly how many baskets his neighbor had carried away in the dark. He looked at the clay sealing the lid. He picked up a stone. He held it for a long moment. Then, slowly, he drew a mark. That mark has travelled a long way.
+A man stood by a pit, trying to remember exactly how many baskets his neighbour had carried away in the dark. He looked at the clay sealing the lid. He picked up a stone. He held it for a long moment. Then, slowly, he drew a mark. That mark has travelled a long way.
