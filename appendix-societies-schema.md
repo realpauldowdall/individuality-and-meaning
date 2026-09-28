@@ -1,6 +1,6 @@
 # Appendix: Societies
 
-Humans were hunter-gatherers for most of their time on earth. Some still are, the San or bushmen of South Africa and Botswana are one example, the many precolonial aboriginal societies in Australia are another. These groups use symbols extensively, but do not organize life primarily through durable textual record-keeping.
+Humans were hunter-gatherers for most of their time on earth. Some still are, the San or bushmen of South Africa and Botswana are one example, the many precolonial aboriginal societies in Australia are another. These groups use symbols extensively, but do not organise life primarily through durable textual record-keeping.
 
 Farming began, and many humans shifted away from foraging.
 
@@ -18,11 +18,11 @@ Stored goods and records under custody become permissions: access to goods, role
 
 Representation can replace reality. People act on the record or category instead of the ground.
 
-The drift tends to run like this: naming, (organized representation); rule-making, (structured organization); secret rule-making, (structured opacity); proxy loyalty, (structured lying).
+The drift tends to run like this: naming, (organised representation); rule-making, (structured organisation); secret rule-making, (structured opacity); proxy loyalty, (structured lying).
 
 Blocking inspection produces belief. Claims persist when verification is denied.
 
-Textual systems can be internalized. People self-monitor against the script or ledger.
+Textual systems can be internalised. People self-monitor against the script or ledger.
 
 Legibility for control, i.e reducing life into metrics, can damage or collapse the underlying reality it manages.
 
@@ -32,4 +32,4 @@ Power is control of verification. Blocking inspection lets claims persist withou
 
 Large-scale war belongs to textual societies, or is instigated by textual societies against non-textual societies, because large-scale war requires the administrative coordination of textual systems and the symbolic loyalties those systems produce.
 
-Summary: Symbolic textual systems emerge from counting and obligation. They develop into permission-structures, replace reality with representation, drift toward opacity and lying, and concentrate power through custody of records and control of verification. These system reinforce themselves. The ground, empirical reality, is obscured from inspection, but there is always space between the bars through which the ground can still be seen. This work is an attempt to show the importance of that space
+Summary: Symbolic textual systems emerge from counting and obligation. They develop into permission-structures, replace reality with representation, drift toward opacity and lying, and concentrate power through custody of records and control of verification. These systems reinforce themselves. The ground, empirical reality, is obscured from inspection, but there is always space between the bars through which the ground can still be seen. This work is an attempt to show the importance of that space.
